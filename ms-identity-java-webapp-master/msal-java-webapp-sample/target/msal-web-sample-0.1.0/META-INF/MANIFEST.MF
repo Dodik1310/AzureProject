@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: knazur
+Build-Jdk: 12
+Implementation-Title: msal-web-sample
+Implementation-Version: 0.1.0
+Implementation-Vendor-Id: com.microsoft.azure
+Main-Class: ${start-class}
+
